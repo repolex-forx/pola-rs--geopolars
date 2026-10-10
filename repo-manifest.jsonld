@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pola-rs/geopolars/commit/eebad68a3c0175dd496f66b40765a7ab9eb1122f",
       "git:hexsha": "eebad68a3c0175dd496f66b40765a7ab9eb1122f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T04:39:55.721359+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pola-rs/geopolars/commit/63511549321f562b366e54e4ee8d2824f2f2351a",
